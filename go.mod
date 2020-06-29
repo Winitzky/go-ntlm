@@ -1,3 +1,3 @@
-module github.com/ThomsonReutersEikon/go-ntlm
+module github.com/Winitzky/go-ntlm
 
 go 1.12
