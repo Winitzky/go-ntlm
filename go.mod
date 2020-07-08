@@ -1,3 +1,3 @@
-module github.com/Winitzky/go-ntlm
+module github.com/demisto/go-ntlm
 
-go 1.12
+go 1.13
